@@ -55,4 +55,13 @@ m = [1, 3, 3, 1, 0] -> 2
 
 -9, 29, -100, 64, 26, 73, -96, 28, -92, 11, -14, -86, -54, -67 -> 29, 64, 73, 28, 11, -54
 ```
-10. Tic-tac-toe oyunu hazırlamaq.
+7. Verilmiş massivdə qonşu elementlərin yerini dəyişin. Tutaq ki, A massivi verilib. Onda A[0] ilə aA[1] - in, A[2] ilə A[3] - ün yerini dəyişin.
+
+**Nümunə** 
+```
+1 2 3 4 5 -> 2 1 4 3 5
+
+9 4 5 2 3 -> 4 9 2 5 3
+```
+
+8. Tic-tac-toe oyunu hazırlamaq.
