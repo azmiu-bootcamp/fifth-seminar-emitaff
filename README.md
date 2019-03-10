@@ -1,3 +1,5 @@
+https://classroom.github.com/a/m6-RxH9f - bu linkdən istifadə edərək məsələri öz github-nıza ələvə edin.
+
 **Condition exercises**
 1. Verilmiş 3 ədəddən bir-birinə bərabər olanların sayını tapın
 
