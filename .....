@@ -1,0 +1,15 @@
+a=int(input(" 1  eded daxil et :"))
+b=int(input(" 2 eded daxil et :"))
+f=int(input("3 eded daxil et :"))
+
+if a==b and b==f and  a==f:
+print("3 eded beraberdir")
+
+elif a<=b and  a<=f:
+print("ededler beraber deyil")
+
+elif a==f or b>=f or a<=b:
+print("ededlerden 2  beraberdir")
+
+elif a<=b or a==f or b>=f:
+print("ededlerden 1 beraberdir")
